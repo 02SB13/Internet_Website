@@ -2,9 +2,22 @@ Internet_Website
 ================
 <html>
 <body>
-    <h1>Personal Details</h1>
-    <p>Please enter your details:</p>
-  
+
+<h1>About W3Schools</h1>
+
+<p title="The Internet">
+The internet is a usefu recourse we use i our everyday lifes.
+It helps us connect to other computers to make a network
+</p>
+
+<p><b>
+If you move the mouse over the paragraph above,
+the title will display as a tooltip.
+</b></p>
+
 </body>
 </html>
-This is files for what I have learnt about in my ICT lessons at school. At the moment we are doing about the internet so i thought I would do a website about it!
+
+</body>
+</html>
+
